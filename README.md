@@ -30,7 +30,7 @@
 
 [CC0](https://github.com/Kimitsuna-Goblin/ChildKampo/blob/master/LICENSE)
 
-著作権は放棄しますので、どなた様もご自由にお使いください。
+表の[PDFファイル](https://github.com/Kimitsuna-Goblin/ChildKampo/blob/master/meyasu.pdf)はパブリックドメインとしますので、どなた様もご自由にお使いください。
 
 ## 著作者 - Author
 
