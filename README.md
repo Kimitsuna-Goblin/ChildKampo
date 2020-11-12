@@ -20,7 +20,7 @@
 
 ※ von Harnackの表 の12歳の値は、Crawford式 との乖離が大きいため、サポートしていません。
 
-※ マニアックな方 (笑) は、Crawford式 を [拡張Clark式](https://kimitsuna-goblin.github.io/extClark/) と読み替えていただいても差し支えありません。
+※ マニアックな方 (笑) は、Crawford式 を [「拡張Clark式」](https://kimitsuna-goblin.github.io/extClark/) と読み替えていただいても差し支えありません。
 
 ## ライセンス - Licence
 
