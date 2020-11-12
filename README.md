@@ -1,6 +1,6 @@
 # 漢方薬(医療用)小児用量の目安 - ChildKampo
 
-[meyasu.pdf](https://github.com/Kimitsuna-Goblin/ChildKampo/blob/master/meyasu.pdf) - 漢方薬(医療用)小児用量の目安の表です。
+[meyasu.pdf](https://kimitsuna-goblin.github.io/ChildKampo/meyasu.pdf) - 漢方薬(医療用)小児用量の目安の表です。
 
 小児によく使われると思われる医療用漢方薬の用量の目安を表に示しています。
 
@@ -20,13 +20,13 @@
 
 ※ von Harnackの表 の12歳の値は、Crawford式 との乖離が大きいため、サポートしていません。
 
-★ マニアックな方 (笑) は、Crawford式 を [拡張Clark式](https://github.com/Kimitsuna-Goblin/extClark/) と読み替えていただいても差し支えありません。
+※ マニアックな方 (笑) は、Crawford式 を [拡張Clark式](https://kimitsuna-goblin.github.io/extClark/) と読み替えていただいても差し支えありません。
 
 ## ライセンス - Licence
 
 [CC0](https://github.com/Kimitsuna-Goblin/ChildKampo/blob/master/LICENSE)
 
-表の [meyasu.pdf](https://github.com/Kimitsuna-Goblin/ChildKampo/blob/master/meyasu.pdf) ファイルはパブリックドメインとしますので、どなた様もご自由にお使いください。
+表の [meyasu.pdf](https://kimitsuna-goblin.github.io/ChildKampo/meyasu.pdf) ファイルはパブリックドメインとしますので、どなた様もご自由にお使いください。
 
 ## 著作者 - Author
 
