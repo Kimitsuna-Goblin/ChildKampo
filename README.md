@@ -15,10 +15,11 @@
 | 1～8歳   | Crawford式、Augsberger式、von Harnackの表 |
 | 9歳以上  | Crawford式
 
-※ Augsberger式は、1～8歳以外の範囲では、Crawford式との乖離が大きくなるため、サポートしていません。
-※ von Harnackの表の12歳の値は、Crawford式との乖離が大きいため、サポートしていません。
+※ Augsberger式 は、1～8歳以外の範囲では、Crawford式 との乖離が大きくなるため、サポートしていません。
 
-★ Crawford式は [拡張Clark式](https://github.com/Kimitsuna-Goblin/extClark/) と読み替えていただいても差し支えありません。
+※ von Harnackの表 の12歳の値は、Crawford式 との乖離が大きいため、サポートしていません。
+
+★ マニアックな方 (笑) は、Crawford式 を [拡張Clark式](https://github.com/Kimitsuna-Goblin/extClark/) と読み替えていただいても差し支えありません。
 
 ### ファイル - Files
 
@@ -27,6 +28,8 @@
 ## ライセンス - Licence
 
 [CC0]
+
+著作権は放棄しますので、どなた様もご自由にお使いください。
 
 ## 著作者 - Author
 
