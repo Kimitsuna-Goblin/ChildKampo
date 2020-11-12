@@ -28,7 +28,7 @@
 
 ## ライセンス - Licence
 
-[CC0]
+[CC0](https://github.com/Kimitsuna-Goblin/ChildKampo/blob/master/LICENSE)
 
 著作権は放棄しますので、どなた様もご自由にお使いください。
 
