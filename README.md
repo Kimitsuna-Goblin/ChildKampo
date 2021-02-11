@@ -22,7 +22,7 @@
 
 ※ マニアックな方 (笑) は、Crawford式 を [「拡張Clark式」](https://kimitsuna-goblin.github.io/extClark/) と読み替えていただいても差し支えありません。
 
-## ライセンス - Licence
+## ライセンス - License
 
 [CC0](https://github.com/Kimitsuna-Goblin/ChildKampo/blob/master/LICENSE)
 
